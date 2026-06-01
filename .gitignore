@@ -1,0 +1,13 @@
+#File types (just in case)
+*.csv
+*.npy
+*.pkl
+*.json
+*.h5
+*.hdf5
+
+#Ignore data folder
+\data
+
+data/*
+!.gitignore
