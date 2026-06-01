@@ -7,9 +7,4 @@
 *.hdf5
 
 #Ignore data folder
-\data
-
-data/*
-!.gitignore
-
 !data/contents.txt

@@ -1,0 +1,7 @@
+This folder should have the following files:
+
+The two below are obtained from Kaggle
+
+mnist_test.csv
+mnist_train.csv
+
